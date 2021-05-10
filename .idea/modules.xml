@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/androidExploring.iml" filepath="$PROJECT_DIR$/androidExploring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinTest.iml" filepath="$PROJECT_DIR$/kotlinTest.iml" />
     </modules>
   </component>
 </project>
